@@ -1,2 +1,2 @@
 # C- Programming- Practice
-A collection of my C and C++ problem solving practice and solutions.
+A collection of my C programming practice, problem-solving exercises, and solutions.
